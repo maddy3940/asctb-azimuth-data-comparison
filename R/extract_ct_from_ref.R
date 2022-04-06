@@ -14,6 +14,7 @@ library(gsheet)
 library(openxlsx)
 
 source('R/utility_extract_ct_from_json.R')
+
 source('R/utility_functions.R')
 source('R/summary_computation_functions.R')
 
